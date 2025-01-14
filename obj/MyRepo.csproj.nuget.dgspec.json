@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\MyRepo.csproj": {}
+    "c:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\MyRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\MyRepo.csproj": {
+    "c:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\MyRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\MyRepo.csproj",
+        "projectUniqueName": "c:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\MyRepo.csproj",
         "projectName": "MyRepo",
-        "projectPath": "C:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\MyRepo.csproj",
+        "projectPath": "c:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\MyRepo.csproj",
         "packagesPath": "C:\\Users\\farzr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\obj\\",
+        "outputPath": "c:\\Users\\farzr\\OneDrive\\Рабочий стол\\repos\\MyRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\farzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
