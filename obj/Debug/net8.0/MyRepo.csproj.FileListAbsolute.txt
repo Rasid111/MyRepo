@@ -1,0 +1,15 @@
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\bin\Debug\net8.0\MyRepo.exe
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\bin\Debug\net8.0\MyRepo.deps.json
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\bin\Debug\net8.0\MyRepo.runtimeconfig.json
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\bin\Debug\net8.0\MyRepo.dll
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\bin\Debug\net8.0\MyRepo.pdb
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\MyRepo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\MyRepo.AssemblyInfoInputs.cache
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\MyRepo.AssemblyInfo.cs
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\MyRepo.csproj.CoreCompileInputs.cache
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\MyRepo.sourcelink.json
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\MyRepo.dll
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\refint\MyRepo.dll
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\MyRepo.pdb
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\MyRepo.genruntimeconfig.cache
+c:\Users\farzr\OneDrive\Рабочий стол\repos\MyRepo\obj\Debug\net8.0\ref\MyRepo.dll
